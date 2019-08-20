@@ -1,6 +1,6 @@
 # Design Best Practices
 
-It's not a strict do'es and don'ts which you should while designing, it's just a list of few things that you should keep in mind while designing webites.
+It's not a strict do'es and don'ts which you must follow while designing, it's just a list of few things that you should keep in mind while designing webites.
 
 ## Contents
 
