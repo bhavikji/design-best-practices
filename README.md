@@ -1,6 +1,6 @@
 # Design Best Practices
 
-It's not a strict do'es and don'ts which you must follow while designing, it's just a list of few things that you should keep in mind while designing webites.
+It's not a strict do'es and don'ts which you must follow while designing, it's just a list of few things that you should keep in mind while designing websites.
 
 ## Contents
 
@@ -54,9 +54,9 @@ Good:
 
 [🔝 Back to contents](#contents)
 
-### **Variable Naming Convention**
+### **Variables Naming Convention**
 
-One of the key feature of SCSS is to give us the chance to declare global variables, and as a designer you should grab this by both hands. Never declare variable based on the behavior or on their appearancs, declare it on the basis of purpose.
+One of the key feature of SCSS is to give us the chance to declare global variables, and as a designer you should grab this by both hands. Never declare variables based on the behavior or by their appearances, declare them on the basis of purpose.
 
 Bad:
 
@@ -78,7 +78,7 @@ $theme-color: FF0000;
 
 ### **Use @mixins**
 
-Another good feature of SCSS is it gives liberty to create functions. When you know that you have a bunch of CSS and that needs to be reused with different values you should use @mixin such cases. For instance: when you are create class with different font-size for your project.
+Another good feature of SCSS is it gives liberty to create functions. When you know that you have a bunch of CSS and that needs to be reused with different values you should use ```@mixin``` in such cases. For instance: when you a create class with different font-size for your project.
 
 Bad:
 
